@@ -11,6 +11,8 @@
 | 📅20260103 |        📜[도로의 개수](https://www.acmicpc.net/problem/1577)                                                             |          |    ☑️    |          |          |          |          |
 | 📅20260110 |        📜[체스](https://www.acmicpc.net/problem/1986)                                                             |          |    ☑️    |          |          |          |          |
 | 📅20260110 |        📜[창업](https://www.acmicpc.net/problem/16890)                                                             |          |    ⏳    |          |          |          |          |
+| 📅20260117 |        📜[케익 배달](https://www.acmicpc.net/problem/2159)                                                             |          |    ⏳    |          |          |          |          |
+| 📅20260117 |        📜[컵라면](https://www.acmicpc.net/problem/1781)                                                             |          |    ⏳    |          |          |          |          |
 
 
 ### 🍒Checking mark
