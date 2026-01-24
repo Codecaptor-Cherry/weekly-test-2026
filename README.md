@@ -13,6 +13,8 @@
 | 📅20260110 |        📜[창업](https://www.acmicpc.net/problem/16890)                                                             |          |    ⏳    |          |          |          |          |
 | 📅20260117 |        📜[케익 배달](https://www.acmicpc.net/problem/2159)                                                             |          |    ⏳    |          |          |          |          |
 | 📅20260117 |        📜[컵라면](https://www.acmicpc.net/problem/1781)                                                             |          |    ⏳    |          |          |          |          |
+| 📅20260124 |        📜[가스관](https://www.acmicpc.net/problem/2931)                                                             |          |    ☑️    |          |          |          |          |
+| 📅20260124 |        📜[2의 멱수의 합](https://www.acmicpc.net/problem/2410)                                                             |          |    ⏳    |          |          |          |          |
 
 
 ### 🍒Checking mark
