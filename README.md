@@ -19,6 +19,12 @@
 | 📅20260207 |        📜[제단](https://www.acmicpc.net/problem/5626)                                                             |          |        |          |          |          |          |
 | 📅20260221 |        📜[테트로미노](https://www.acmicpc.net/problem/14500)                                                             |          |        |          |          |          |          |
 | 📅20260221 |        📜[점수 따먹기](https://www.acmicpc.net/problem/1749)                                                             |          |        |          |          |          |          |
+| 📅20260228 |        📜[정육점](https://www.acmicpc.net/problem/2258)                                                             |          |        |          |          |          |          |
+| 📅20260228 |        📜[영우는 사기꾼?](https://www.acmicpc.net/problem/14676)                                                             |          |        |          |          |          |          |
+| 📅20260314 |        📜[스타트 택시](https://www.acmicpc.net/problem/19238)                                                             |          |        |          |          |          |          |
+| 📅20260314 |        📜[전화번호 목록](https://www.acmicpc.net/problem/5052)                                                             |          |        |          |          |          |          |
+| 📅20260328 |        📜[무기 공학](https://www.acmicpc.net/problem/18430)                                                             |          |        |          |          |          |          |
+| 📅20260328 |        📜[카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=java)                                                             |          |        |          |          |          |          |
 
 
 ### 🍒Checking mark
