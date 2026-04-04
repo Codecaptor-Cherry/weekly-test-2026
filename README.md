@@ -23,9 +23,9 @@
 | 📅20260228 |        📜[영우는 사기꾼?](https://www.acmicpc.net/problem/14676)                                                             |          |        |          |          |          |          |
 | 📅20260314 |        📜[스타트 택시](https://www.acmicpc.net/problem/19238)                                                             |          |        |          |          |          |          |
 | 📅20260314 |        📜[전화번호 목록](https://www.acmicpc.net/problem/5052)                                                             |          |        |          |          |          |          |
-| 📅20260328 |        📜[무기 공학](https://www.acmicpc.net/problem/18430)                                                             |          |        |     ☑️     |          |          |          |
+| 📅20260328 |        📜[무기 공학](https://www.acmicpc.net/problem/18430)                                                             |          |    ☑️    |          |          |          |          |
 | 📅20260328 |        📜[카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=java)                                                             |          |        |          |          |          |          |
-| 📅20260404 |        📜[횡단보도](https://www.acmicpc.net/problem/24042)                                                             |          |        |     ⏳     |          |          |          |
+| 📅20260404 |        📜[횡단보도](https://www.acmicpc.net/problem/24042)                                                             |          |    ⏳    |          |          |          |          |
 | 📅20260404 |        📜[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)                                                             |          |    ☑️    |          |          |          |          |
 
 
