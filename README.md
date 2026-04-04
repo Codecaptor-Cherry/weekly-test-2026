@@ -15,8 +15,8 @@
 | 📅20260117 |        📜[컵라면](https://www.acmicpc.net/problem/1781)                                                             |          |    ⏳    |          |          |          |          |
 | 📅20260124 |        📜[가스관](https://www.acmicpc.net/problem/2931)                                                             |          |    ☑️    |          |          |          |          |
 | 📅20260124 |        📜[2의 멱수의 합](https://www.acmicpc.net/problem/2410)                                                             |          |    ⏳    |          |          |          |          |
-| 📅20260131 |        📜[5차 전직](https://www.acmicpc.net/problem/16112)                                                             |          |        |          |          |          |          |
-| 📅20260207 |        📜[제단](https://www.acmicpc.net/problem/5626)                                                             |          |        |          |          |          |          |
+| 📅20260131 |        📜[5차 전직](https://www.acmicpc.net/problem/16112)                                                             |          |    ☑️    |          |          |          |          |
+| 📅20260207 |        📜[제단](https://www.acmicpc.net/problem/5626)                                                             |          |    ☑️    |          |          |          |          |
 | 📅20260221 |        📜[테트로미노](https://www.acmicpc.net/problem/14500)                                                             |          |        |          |          |          |          |
 | 📅20260221 |        📜[점수 따먹기](https://www.acmicpc.net/problem/1749)                                                             |          |        |          |          |          |          |
 | 📅20260228 |        📜[정육점](https://www.acmicpc.net/problem/2258)                                                             |          |        |          |          |          |          |
