@@ -27,6 +27,8 @@
 |        | 📅20260328 |        📜[카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=java)                                                             |          |        |          |          |          |          |
 |   11   | 📅20260404 |        📜[횡단보도](https://www.acmicpc.net/problem/24042)                                                             |          |    ⏳    |          |          |          |          |
 |        | 📅20260404 |        📜[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)                                                             |          |    ☑️    |          |          |          |          |
+|   12   | 📅20260404 |        📜[Chill...은 내가 가장 좋아하는 소수](https://www.acmicpc.net/problem/33850)                                                             |          |        |          |          |          |          |
+|   12   | 📅20260404 |        📜[외판원 순회](https://www.acmicpc.net/problem/2098)                                                             |          |        |          |          |          |          |
 
 
 ### 🍒Checking mark
