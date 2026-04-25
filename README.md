@@ -27,9 +27,12 @@
 |        | 📅20260328 |        📜[카카오 앱 정리하기](https://school.programmers.co.kr/learn/courses/30/lessons/468374?language=java)                                                             |          |        |          |          |          |          |
 |   11   | 📅20260404 |        📜[횡단보도](https://www.acmicpc.net/problem/24042)                                                             |          |    ⏳    |          |          |          |          |
 |        | 📅20260404 |        📜[한국이 그리울 땐 서버에 접속하지](https://www.acmicpc.net/problem/9996)                                                             |          |    ☑️    |          |          |          |          |
-|   12   | 📅20260404 |        📜[Chill...은 내가 가장 좋아하는 소수](https://www.acmicpc.net/problem/33850)                                                             |          |    ☑️    |          |          |          |          |
-|        | 📅20260404 |        📜[외판원 순회](https://www.acmicpc.net/problem/2098)                                                             |          |    ⏳    |          |          |          |          |
-
+|   12   | 📅20260411 |        📜[Chill...은 내가 가장 좋아하는 소수](https://www.acmicpc.net/problem/33850)                                                             |          |    ☑️    |          |          |          |          |
+|        | 📅20260411 |        📜[외판원 순회](https://www.acmicpc.net/problem/2098)                                                             |          |    ⏳    |          |          |          |          |
+|   13   | 📅20260418 |        📜[로봇 청소기](https://www.acmicpc.net/problem/4991)                                                             |          |        |          |          |          |          |
+|        | 📅20260418 |        📜[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379?language=java)                                                             |          |        |          |          |          |          |
+|   14   | 📅20260425 |        📜[게임 닉네임](https://www.acmicpc.net/problem/16934)                                                             |          |        |          |          |          |          |
+|        | 📅20260425 |        📜[개미굴](https://www.acmicpc.net/problem/14725)                                                             |          |        |          |          |          |          |
 
 ### 🍒Checking mark
 
