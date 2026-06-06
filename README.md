@@ -39,7 +39,6 @@
 |      | 📅20260516 |        📜[중요한 단어를 스포방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)                                                             |          |        |          |          |          |          |
 |   17   | 📅20260530 |        📜[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                                             |          |        |          |          |          |          |
 |   18   | 📅20260530 |        📜[바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)                                                             |          |        |          |          |          |          |
-
 |      | 📅20260530 |        📜[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/?envType=daily-question&envId=2026-06-06)                                                             |          |        |          |          |          |          |
 
 ### 🍒Checking mark
