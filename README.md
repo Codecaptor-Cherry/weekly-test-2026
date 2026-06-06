@@ -33,6 +33,11 @@
 |        | 📅20260418 |        📜[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379?language=java)                                                             |          |        |          |          |          |          |
 |   14   | 📅20260425 |        📜[게임 닉네임](https://www.acmicpc.net/problem/16934)                                                             |          |        |          |          |          |          |
 |        | 📅20260425 |        📜[개미굴](https://www.acmicpc.net/problem/14725)                                                             |          |        |          |          |          |          |
+|   15   | 📅20260509 |        📜[디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)                                                             |          |        |          |          |          |          |
+|      | 📅20260509 |        📜[쿼드압축 후 개수 세기](https://school.programmers.co.kr/learn/courses/30/lessons/68936)                                                             |          |        |          |          |          |          |
+|   16   | 📅20260516 |        📜[힌트 스테이지](https://school.programmers.co.kr/learn/courses/30/lessons/468377)                                                             |          |        |          |          |          |          |
+|      | 📅20260516 |        📜[중요한 단어를 스포방지](https://school.programmers.co.kr/learn/courses/30/lessons/468370)                                                             |          |        |          |          |          |          |
+|   17   | 📅20260530 |        📜[기능개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586)                                                             |          |        |          |          |          |          |
 
 ### 🍒Checking mark
 
