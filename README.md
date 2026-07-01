@@ -41,7 +41,6 @@
 |   18   | 📅20260606 |        📜[바이러스 파이프](https://school.programmers.co.kr/learn/courses/30/lessons/468373)                                                             |          |    ☑️    |          |          |          |          |
 |      | 📅20260606 |        📜[Left and Right Sum Differences](https://leetcode.com/problems/left-and-right-sum-differences/description/?envType=daily-question&envId=2026-06-06)                                                             |          |    ☑️    |          |          |          |          |
 |   19   | 📅20260613 |        📜[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)                                                             |          |         |          |          |          |          |
-|      | 📅20260613 |        📜[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379/)                                                             |          |         |          |          |          |          |
 |   20   | 📅20260620 |        📜[발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375)                                                             |          |         |          |          |          |          |
 |      | 📅20260620 |        📜[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)                                                             |          |         |          |          |          |          |
 
