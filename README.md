@@ -44,6 +44,8 @@
 |   19   | 📅20260613 |        📜[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/)                                                             |          |         |          |          |          |          |
 |   20   | 📅20260620 |        📜[발전소 회로 복구](https://school.programmers.co.kr/learn/courses/30/lessons/468375)                                                             |          |         |          |          |          |          |
 |      | 📅20260620 |        📜[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)                                                             |          |         |          |          |          |          |
+|   21   | 📅20260704 |        📜[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)                                                             |          |     ⏳     |          |          |          |          |
+|      | 📅20260704 |        📜[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)                                                             |          |     ⏳     |          |          |          |          |
 
 ### 🍒Checking mark
 
