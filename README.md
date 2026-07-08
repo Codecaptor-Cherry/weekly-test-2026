@@ -30,7 +30,7 @@
 |   12   | 📅20260411 |        📜[Chill...은 내가 가장 좋아하는 소수](https://www.acmicpc.net/problem/33850)                                                             |          |    ☑️    |          |          |          |          |
 |        | 📅20260411 |        📜[외판원 순회](https://www.acmicpc.net/problem/2098)                                                             |          |    ⏳    |          |          |          |          |
 |   13   | 📅20260418 |        📜[로봇 청소기](https://www.acmicpc.net/problem/4991)                                                             |          |        |          |          |          |          |
-|        | 📅20260418 |        📜[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379)                                                             |          |        |          |          |          |          |
+|        | 📅20260418 |        📜[선인장 숨기기](https://school.programmers.co.kr/learn/courses/30/lessons/468379)                                                             |          |    ⏳    |          |          |          |          |
 |   14   | 📅20260425 |        📜[게임 닉네임](https://www.acmicpc.net/problem/16934)                                                             |          |        |          |          |          |          |
 |        | 📅20260425 |        📜[개미굴](https://www.acmicpc.net/problem/14725)                                                             |          |        |          |          |          |          |
 |        | 절취선 |        ------------------------------        |     백     |    준    |     섭     |     종     |     이     |     요     |
