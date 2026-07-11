@@ -46,6 +46,8 @@
 |      | 📅20260620 |        📜[The Skyline Problem](https://leetcode.com/problems/the-skyline-problem/description/)                                                             |          |         |          |          |          |          |
 |   21   | 📅20260704 |        📜[Dungeon Game](https://leetcode.com/problems/dungeon-game/description/)                                                             |          |     ⏳     |          |          |          |          |
 |      | 📅20260704 |        📜[Poor Pigs](https://leetcode.com/problems/poor-pigs/description/)                                                             |          |     ⏳     |          |          |          |          |
+|   22   | 📅20260711 |        📜[동굴 탐험](https://school.programmers.co.kr/learn/courses/30/lessons/67260)                                                             |          |          |          |          |          |          |
+|      | 📅20260711 |        📜[Merge k Sorted Lists](https://leetcode.com/problems/merge-k-sorted-lists/description/)                                                             |          |          |          |          |          |          |
 
 ### 🍒Checking mark
 
